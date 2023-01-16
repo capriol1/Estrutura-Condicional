@@ -1,1 +1,2 @@
 # Estrutura-Condicional
+Os exercícios do link https://wiki.python.org.br/EstruturaDeDecisao são uma coleção de desafios de programação. São desafios de programação que visam ajudar os usuários a compreender e praticar como utilizar as estruturas condicionais na linguagem de programação Python. Essas estruturas incluem comandos como if, elif e else, que permitem que o código tome decisões baseadas em condições específicas.
